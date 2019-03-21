@@ -1,12 +1,11 @@
 #!/usr/bin/python
 import pandas as pd
 import matplotlib.pyplot as plt
-from urllib.request import urlopen
+from urllib3.request import urlopen
 from PIL import Image
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 import math
-import colorsys
 
 
 # return google maps api key
