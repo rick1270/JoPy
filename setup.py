@@ -16,8 +16,9 @@ with open('README.md') as fh:
 
 setuptools.setup(
     name="JoPy",
-    version="0.0.1",
+    version="0.4",
     author="Rick Clayton",
+    author_email="rick1270@gmail.com",
     description="A collection of tools for using plotting with google maps",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",

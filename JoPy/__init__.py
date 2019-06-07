@@ -1,1 +1,2 @@
-VERSION = 0.1
+Name = 'JoPy'
+VERSION = 0.5
